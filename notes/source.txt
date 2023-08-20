@@ -1,0 +1,62 @@
+Resouces
+ตัวอย่าง Code หลังจากที่ทำเสร็จแล้ว สามารถดูได้ที่ Repository ของผมเลยนะครับ: https://github.com/Rayato159/kawaii-shop-tutorial
+
+Postman ใช้สำหรับ Test API
+
+https://www.postman.com/
+
+
+
+ลิงค์ข้อมูล Package ต่างๆที่ใช้
+
+GOFiber: https://docs.gofiber.io/
+
+Dotenv: https://github.com/joho/godotenv
+
+sqlx: https://github.com/jmoiron/sqlx
+
+pgx: https://github.com/jackc/pgx
+
+JWT-Go: https://github.com/golang-jwt/jwt
+
+uuid: https://github.com/google/uuid
+
+Google Storage: https://cloud.google.com/storage/docs/uploading-objects#storage-upload-object-client-libraries
+
+
+
+คำสั่ง Install Package
+
+go get <package_name>
+
+คำสั่ง Remove Package
+
+go get <package_name>@none
+
+คำสั่งติดตั้ง Dependencies ทั้งหมด
+
+go get .
+
+
+
+Password Generator
+
+https://delinea.com/resources/password-generator-it-tool
+
+
+
+File Permission Calculator
+
+https://chmod-calculator.com/
+
+
+
+Google Cloud CLI Install
+
+https://cloud.google.com/sdk/docs/install
+
+
+
+.gitignore
+
+https://github.com/Rayato159/kawaii-shop-tutorial/blob/main/.gitignore
